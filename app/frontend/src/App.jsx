@@ -14,7 +14,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <div className="brand">
-        <a href="/"><h3>LuxHotel</h3></a>
+        <a href="/"><h3>Nhom 14 Hotel</h3></a>
       </div>
       <div className="nav-links">
         {user ? (
